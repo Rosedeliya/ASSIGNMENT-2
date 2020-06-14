@@ -71,12 +71,12 @@ function Solution()
     end
     #Printing the final solution
     println("\n")
-    println("#################################################################")
+    println("##################################################################")
     println("The highest score is: ", solutionSum)
     println("With a total weight of: ", weightSum)
     println("Summed from items with the following Values: ", finalValueSet)
     println("And whose respective weights are: ", finalWeightSet)
-    println("#################################################################")
+    println("##################################################################")
 end
 
 #Calling the Solution function to display the final result
